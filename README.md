@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ExeosJs
-- 👀 I’m interested in Developpement
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m Sanorey !
+- 🌱 I’m currently learning System Administration
 
 <!---
 ExeosJs/ExeosJs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
