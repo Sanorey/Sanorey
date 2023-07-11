@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **https://linktr.ee/sanorey**
 
-- 📫 How to reach me **Sanorey#4490**
+- 📫 How to reach me **@sanorey**
 
 </p>
 
